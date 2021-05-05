@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eddy
+* source:	https://sketchfab.com/3d-models/eddy-92d24e41ea294275a726b6ef2a6bb3f2
+* author:	eddy.varona (https://sketchfab.com/eddy.varona)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eddy" (https://sketchfab.com/3d-models/eddy-92d24e41ea294275a726b6ef2a6bb3f2) by eddy.varona (https://sketchfab.com/eddy.varona) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
