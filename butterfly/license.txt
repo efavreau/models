@@ -1,0 +1,11 @@
+Model Information:
+* title:	Порхающая бабочка
+* source:	https://sketchfab.com/3d-models/51cfca4c564e4a238a3592914f1c0fbf
+* author:	holylu (https://sketchfab.com/holylu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Порхающая бабочка" (https://sketchfab.com/3d-models/51cfca4c564e4a238a3592914f1c0fbf) by holylu (https://sketchfab.com/holylu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
