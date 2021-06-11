@@ -1,0 +1,7 @@
+newmtl DarkConcrete
+Ka 0.752941176470588 0.752941176470588 0.752941176470588
+Kd 0.752941176470588 0.752941176470588 0.752941176470588
+d 1
+map_Ka concrete-texture-high-res_dark.jpg
+map_Kd concrete-texture-high-res_dark.jpg
+
