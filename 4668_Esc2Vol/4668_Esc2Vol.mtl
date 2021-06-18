@@ -1,0 +1,7 @@
+newmtl Metal_smooth
+Ka 0.313725490196078 0.313725490196078 0.313725490196078
+Kd 0.313725490196078 0.313725490196078 0.313725490196078
+d 1
+map_Ka Seamless_metal_texture_smooth_dark.jpg
+map_Kd Seamless_metal_texture_smooth_dark.jpg
+
