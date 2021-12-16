@@ -1,0 +1,6 @@
+newmtl UNITY_Plancher_Bois_Gris_90deg
+Ka 0.752941176470588 0.752941176470588 0.752941176470588
+Kd 0.752941176470588 0.752941176470588 0.752941176470588
+d 1
+map_Ka boards+01_Horiz_GrisFonceMoyen.jpg
+map_Kd boards+01_Horiz_GrisFonceMoyen.jpg
