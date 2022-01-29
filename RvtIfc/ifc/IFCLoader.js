@@ -23,7 +23,8 @@ import {
 //from "https://cdn.jsdelivr.net/npm/three@0.115/build/three.module.js";
 //from "../../../build/three.module.js";
 //from 'three';
-import { mergeBufferGeometries } from "https://threejs.org/examples/jsm/utils/BufferGeometryUtils.js";
+import { mergeBufferGeometries } from"https://raw.githubusercontent.com/efavreau/models/main/RvtIfc/ifc/BufferGeometryUtils.js";
+//import { mergeBufferGeometries } from "https://threejs.org/examples/jsm/utils/BufferGeometryUtils.js";
 //import { mergeBufferGeometries } from "https://cdn.jsdelivr.net/npm/three@0.115/examples/jsm/utils/BufferGeometryUtils.js";
 //import { mergeBufferGeometries } from '../utils/BufferGeometryUtils.js';
 
