@@ -6,7 +6,8 @@ import {
 	IFCRELDEFINESBYTYPE,
 	IFCPROJECT,
 	IfcAPI
-} from './ifc/web-ifc-api.js';
+} from 'https://github.com/efavreau/models/tree/main/RvtIfc/ifc/web-ifc-api.js';
+//from './ifc/web-ifc-api.js';
 import {
 	BufferAttribute,
 	Mesh,
