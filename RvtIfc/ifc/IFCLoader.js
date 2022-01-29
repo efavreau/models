@@ -17,7 +17,8 @@ import {
 	DoubleSide,
 	Loader,
 	FileLoader
-} from 'three';
+} from "../../../build/three.module.js";
+//from 'three';
 import { mergeBufferGeometries } from '../utils/BufferGeometryUtils.js';
 
 const IdAttrName = 'expressID';
