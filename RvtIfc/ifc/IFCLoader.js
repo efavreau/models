@@ -7,6 +7,7 @@ import {
 	IFCPROJECT,
 	IfcAPI
 } from 'https://threejs.org/examples/jsm/loaders/ifc/web-ifc-api.js';
+//TEST
 //from './ifc/web-ifc-api.js';
 import {
 	BufferAttribute,
