@@ -17,8 +17,11 @@ import {
 	DoubleSide,
 	Loader,
 	FileLoader
-} from 'three';
-import { mergeBufferGeometries } from '../utils/BufferGeometryUtils.js';
+} 
+import { mergeBufferGeometries } from "https://cdn.jsdelivr.net/npm/three@0.115/examples/jsm/utils/BufferGeometryUtils.js";
+
+//from 'three';
+//import { mergeBufferGeometries } from '../utils/BufferGeometryUtils.js';
 
 const IdAttrName = 'expressID';
 const merge = ( geoms, createGroups = false ) => {
