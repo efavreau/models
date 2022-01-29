@@ -17,7 +17,8 @@ import {
 	DoubleSide,
 	Loader,
 	FileLoader
-} from "../../../build/three.module.js";
+} from "https://cdn.jsdelivr.net/npm/three@0.115/build/three.module.js";
+//from "../../../build/three.module.js";
 //from 'three';
 import { mergeBufferGeometries } from '../utils/BufferGeometryUtils.js';
 
