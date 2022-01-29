@@ -6,7 +6,7 @@ import {
 	IFCRELDEFINESBYTYPE,
 	IFCPROJECT,
 	IfcAPI
-} from 'https://threejs.org/examples/jsm/loaders/ifc/web-ifc-api.js';
+} from "https://threejs.org/examples/jsm/loaders/ifc/web-ifc-api.js";
 
 //from './ifc/web-ifc-api.js';
 import {
@@ -19,11 +19,12 @@ import {
 	DoubleSide,
 	Loader,
 	FileLoader
-} from 'https://threejs.org/build/three.module.js';
+} from "https://threejs.org/build/three.module.js";
 //from "https://cdn.jsdelivr.net/npm/three@0.115/build/three.module.js";
 //from "../../../build/three.module.js";
 //from 'three';
-import { mergeBufferGeometries } from 'https://cdn.jsdelivr.net/npm/three@0.115/examples/jsm/utils/BufferGeometryUtils.js';
+import { mergeBufferGeometries } from "https://threejs.org/examples/jsm/utils/BufferGeometryUtils.js";
+//import { mergeBufferGeometries } from "https://cdn.jsdelivr.net/npm/three@0.115/examples/jsm/utils/BufferGeometryUtils.js";
 //import { mergeBufferGeometries } from '../utils/BufferGeometryUtils.js';
 
 const IdAttrName = 'expressID';
