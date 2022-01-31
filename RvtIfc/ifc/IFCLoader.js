@@ -19,9 +19,9 @@ import {
 	DoubleSide,
 	Loader,
 	FileLoader
-} from 'https://threejs.org/build/three.module.js';
+} from 'https://cdn.jsdelivr.net/npm/three@0.127.0/build/three.module.js';
 //from 'three';
-import { mergeBufferGeometries } from 'https://cdn.jsdelivr.net/npm/three@0.137.5/examples/jsm/utils/BufferGeometryUtils.js';
+import { mergeBufferGeometries } from 'https://cdn.jsdelivr.net/npm/three@0.127.0/examples/jsm/utils/BufferGeometryUtils.js';
 //import { mergeBufferGeometries } from '../utils/BufferGeometryUtils.js';
 
 const IdAttrName = 'expressID';
