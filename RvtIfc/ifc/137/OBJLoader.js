@@ -12,7 +12,8 @@ import {
 	Points,
 	PointsMaterial,
 	Vector3
-} from 'three';
+} from 'https://cdn.jsdelivr.net/npm/three@0.137.5/build/three.js';
+//from 'three';
 
 // o object_name | g group_name
 const _object_pattern = /^[og]\s*(.+)?/;
