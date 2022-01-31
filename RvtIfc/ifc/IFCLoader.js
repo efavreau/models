@@ -21,7 +21,7 @@ import {
 	FileLoader
 } from 'https://threejs.org/build/three.module.js';
 //from 'three';
-import { mergeBufferGeometries } from 'https://raw.githubusercontent.com/efavreau/models/main/RvtIfc/ifc/BufferGeometryUtils.js';
+import { mergeBufferGeometries } from 'https://cdn.jsdelivr.net/npm/three@0.137.5/examples/jsm/utils/BufferGeometryUtils.js';
 //import { mergeBufferGeometries } from '../utils/BufferGeometryUtils.js';
 
 const IdAttrName = 'expressID';
