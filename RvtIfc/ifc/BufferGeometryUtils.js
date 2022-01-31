@@ -8,7 +8,7 @@ import {
 	TriangleStripDrawMode,
 	TrianglesDrawMode,
 	Vector3
-} from "https://threejs.org/build/three.module.js";
+} from "https://cdn.jsdelivr.net/npm/three@0.127.0/build/three.module.js";
 //from 'three';
 
 
