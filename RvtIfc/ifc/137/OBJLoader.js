@@ -12,7 +12,7 @@ import {
 	Points,
 	PointsMaterial,
 	Vector3
-} from 'https://cdn.jsdelivr.net/npm/three@0.137.5/build/three.js';
+} from 'https://cdn.jsdelivr.net/npm/three@0.137.5/build/three.module.js';
 //from 'three';
 
 // o object_name | g group_name
